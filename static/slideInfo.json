@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Operational excellence",
+        "description": "Sensors and actuators can closely monitor the manufacturing process and products",
+        "backgroundPhoto": "operational-excellence",
+        "cardCategory": "Business benefits",
+        "cardTitle": "Business model innovation",
+        "cardDescription": "Companies can create new products and services to generate additional revenue streams."
+    },
+    {
+        "title": "Business model innovation",
+        "description": "Companies can create new products and services to generate additional revenue streams",
+        "backgroundPhoto": "business-model-innovation",
+        "cardCategory": "Strategic alignment",
+        "cardTitle": "Digital innovation labs",
+        "cardDescription": "The business strategy provides guidance on goals and objectives."
+    },
+    {
+        "title": "Environmental stewardship",
+        "description": "Today lower cost and higher revenue are also being measured on corporate social responsibility",
+        "backgroundPhoto": "environmental-stewardship",
+        "cardCategory": "Business process focus",
+        "cardTitle": "Data analytics implementation",
+        "cardDescription": "Creating an end-to-end business process."
+    }
+]

@@ -1,0 +1,384 @@
+@font-face {
+	font-family: 'regular';
+	src: url('/GTWalsheimProRegular.44692bfb.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'bold';
+	src: url('/GTWalsheimProBold.a2d6e6db.ttf') format('truetype');
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.intro h1 {
+	margin-left: 10rem;
+	font-size: 2.5rem;
+	letter-spacing: 2px;
+	font-family: 'bold';
+}
+
+.intro img {
+	overflow: hidden;
+	width: 100%;
+	margin-top: 3rem;
+}
+
+.intro p {
+	width: 30%;
+	margin-left: 2rem;
+	margin-top: 3rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+	border: 2px solid #FFED00;
+}
+
+.intro .second {
+	width: 30%;
+	margin-left: 2rem;
+	margin-top: 3rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+}
+
+.factors h1 {
+	text-align: center;
+	margin-top: -89rem;
+	margin-left: 30rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.factors p {
+	width: 20%;
+	margin-left: 40rem;
+	margin-top: 3.5rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+}
+
+.factors img {
+	width: 20%;
+	margin-left: 60rem;
+	margin-top: -15rem;
+}
+
+.factors h2 {
+	margin-left: 75rem;
+	font-size: 1rem;
+	margin-top: -2rem;
+	font-family: 'regular';
+}
+
+.bbenefits h1 {
+	text-align: center;
+	margin-top: 8rem;
+	margin-left: 30rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.bbenefits p {
+	width: 40%;
+	margin-top: 1.5rem;
+	margin-left: 50rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+}
+
+.model h1 {
+	text-align: center;
+	margin-top: 8rem;
+	margin-left: 40rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.model img {
+	width: 4%;
+}
+
+.model p {
+	width: 40%;
+	margin-top: 1.5rem;
+	margin-left: 50rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+}
+
+.customerexp {
+	background: #F5F5F5;
+	padding-bottom: 2rem;
+}
+
+.customerexp h1 {
+	text-align: center;
+	margin-top: 8rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.customerexp .icon {
+	width: 5%;
+}
+
+.customerexp p {
+	width: 30%;
+	margin-top: -23rem;
+	margin-left: 55rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+}
+
+p.quote {
+	margin-left: 15rem;
+	margin-top: 5rem;
+	font-family: 'bold';
+	border: 2px solid white;
+	padding: 2rem;
+}
+
+.customerexp img {
+	width: 50%;
+	overflow: hidden;
+	margin-top: 3rem;
+	margin-left: 5rem;
+}
+
+.operational h1 {
+	margin-left: 12rem;
+	margin-top: 8rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.operational img {
+	width: 3%;
+}
+
+.operational p {
+	width: 30%;
+	margin-top: 1.5rem;
+	margin-left: 12rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+}
+
+.environmental h1 {
+	margin-left: 50rem;
+	margin-top: -30rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.environmental img {
+	width: 5%;
+}
+
+.environmental p {
+	width: 30%;
+	margin-top: 1.5rem;
+	margin-left: 50rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+}
+
+.worker h1 {
+	margin-left: 12rem;
+	margin-top: 8rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.worker img {
+	width: 3%;
+}
+
+.worker p {
+	width: 30%;
+	margin-top: 1.5rem;
+	margin-left: 12rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+}
+
+.compliance h1 {
+	margin-left: 55rem;
+	margin-top: -28rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.compliance img {
+	width: 5%;
+}
+
+.compliance p {
+	width: 30%;
+	margin-top: 1.5rem;
+	margin-left: 50rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+}
+
+.strategic {
+	background: #C6C6C6;
+	padding-bottom: 2rem;
+
+}
+
+.strategic h1 {
+	text-align: center;
+	margin-top: 8rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+
+.strategic p {
+	width: 30%;
+	margin-top: -30rem;
+	margin-left: 54rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+}
+
+.strategic p.quote2 {
+	margin-left: 12rem;
+	margin-top: 2rem;
+	font-family: 'bold';
+	color: white;
+	border: 2px solid white;
+	padding: 2rem;
+}
+
+.strategic img {
+	width: 100%;
+	overflow: hidden;
+}
+
+.process h1 {
+	text-align: center;
+	margin-top: 4rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.process p {
+	margin-left: 2rem;
+	margin-top: 2rem;
+	font-family: 'regular';
+	font-size: 1.5rem;
+}
+
+.operating h1 {
+	text-align: center;
+	margin-top: 4rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.operating p {
+	width: 30%;
+	margin-left: 55rem;
+	margin-top: 2rem;
+	font-family: 'regular';
+	font-size: 1.5rem;
+	border: 2px solid #FFED00;
+}
+
+
+.operating p.quote3 {
+	width: 30%;
+	margin-left: 15rem;
+	margin-top: -58rem;
+	font-family: 'bold';
+}
+
+.uplift h1 {
+	margin-left: 15rem;
+	margin-top: 4rem;
+	font-family: 'bold';
+	font-size: 2.5rem;
+}
+
+.uplift p {
+	width: 30%;
+	font-family: 'regular';
+	margin-left: 15rem;
+	font-size: 1.5rem;
+}
+
+.security h1 {
+	margin-left: 55rem;
+	margin-top: -35rem;
+	font-family: 'bold';
+	font-size: 2.5rem;
+}
+
+.security p {
+	width: 30%;
+	margin-left: 55rem;
+	margin-top: 2rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+}
+
+
+.help h1 {
+	text-align: center;
+	margin-top: 4rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.help p {
+	text-align: center;
+	margin-top: 2rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+	padding-bottom: 2rem;
+}
+
+.autor {
+	border: 1px solid black;
+}
+
+.autor h1 {
+	margin-left: 60rem;
+	margin-top: 2rem;
+}
+
+.autor p {
+	width: 35%;
+	margin-left: 55rem;
+	margin-top: -20rem;
+	font-size: 1.5rem;
+	font-family: 'regular';
+	padding-bottom: 2rem;
+}
+
+.autor img {
+	margin-left: 15rem;
+}
+
+.articles h1 {
+	text-align: center;
+	margin-top: 4rem;
+	font-size: 2.5rem;
+	font-family: 'bold';
+}
+
+.articles img {
+	width: 100%;
+	padding-bottom: 5rem;
+}
+
+.footer img {
+	width: 100%;
+}
+
+/*# sourceMappingURL=/assets.766c4d84.css.map */
